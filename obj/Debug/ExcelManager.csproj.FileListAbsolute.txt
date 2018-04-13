@@ -1,0 +1,16 @@
+C:\Users\brendan\Desktop\ExcelManager\ExcelManager\obj\Debug\ExcelManager.csprojResolveAssemblyReference.cache
+C:\Users\brendan\Desktop\ExcelManager\ExcelManager\obj\Debug\ExcelManager.csproj.ResolveComReference.cache
+C:\Users\brendan\Desktop\ExcelManager\ExcelManager\obj\Debug\ExcelManager.csproj.CoreCompileInputs.cache
+C:\Users\brendan\Desktop\ExcelManager\ExcelManager\bin\Debug\ExcelManager.exe.config
+C:\Users\brendan\Desktop\ExcelManager\ExcelManager\bin\Debug\ExcelManager.exe
+C:\Users\brendan\Desktop\ExcelManager\ExcelManager\bin\Debug\ExcelManager.pdb
+C:\Users\brendan\Desktop\ExcelManager\ExcelManager\obj\Debug\ExcelManager.exe
+C:\Users\brendan\Desktop\ExcelManager\ExcelManager\obj\Debug\ExcelManager.pdb
+C:\Users\brendan\Desktop\AlexTest\ExcelManager\bin\Debug\ExcelManager.exe.config
+C:\Users\brendan\Desktop\AlexTest\ExcelManager\bin\Debug\ExcelManager.exe
+C:\Users\brendan\Desktop\AlexTest\ExcelManager\bin\Debug\ExcelManager.pdb
+C:\Users\brendan\Desktop\AlexTest\ExcelManager\obj\Debug\ExcelManager.csprojResolveAssemblyReference.cache
+C:\Users\brendan\Desktop\AlexTest\ExcelManager\obj\Debug\ExcelManager.csproj.ResolveComReference.cache
+C:\Users\brendan\Desktop\AlexTest\ExcelManager\obj\Debug\ExcelManager.csproj.CoreCompileInputs.cache
+C:\Users\brendan\Desktop\AlexTest\ExcelManager\obj\Debug\ExcelManager.exe
+C:\Users\brendan\Desktop\AlexTest\ExcelManager\obj\Debug\ExcelManager.pdb
